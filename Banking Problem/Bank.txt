@@ -1,0 +1,33 @@
+
+Transaction deposit:
+Old balance = 500.0
+Deposit amount = 200.0
+New balance = 700.0
+Transaction withdraw:
+Old balance = 700.0
+Withdraw amount = 100.0
+New balance = 600.0
+Transaction deposit:
+Old balance = 500.0
+Deposit amount = 200.0
+New balance = 700.0
+Transaction withdraw:
+Old balance = 700.0
+Withdraw amount = 100.0
+New balance = 600.0
+Transaction deposit:
+Old balance = 500.0
+Deposit amount = 200.0
+New balance = 700.0
+Transaction withdraw:
+Old balance = 700.0
+Withdraw amount = 100.0
+New balance = 600.0
+Transaction deposit:
+Old balance = 500.0
+Deposit amount = 200.0
+New balance = 700.0
+Transaction withdraw:
+Old balance = 700.0
+Withdraw amount = 100.0
+New balance = 600.0
